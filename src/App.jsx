@@ -6,7 +6,7 @@ function App() {
 
       <nav>
         <div className="logo">
-          AK.
+          SG.
         </div>
 
         <div className="nav-links">
