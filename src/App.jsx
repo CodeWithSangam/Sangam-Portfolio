@@ -92,7 +92,7 @@ function App() {
         <div className="hero-card">
 
           <div className="profile-circle">
-            AK
+            SG
           </div>
 
           <h3>
@@ -432,7 +432,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://github.com/anubhavkumar3240-sudo"
+                  href="https://github.com/CodeWithSangam"
                   target="_blank"
                   rel="noreferrer"
                   className="project-github"
@@ -481,11 +481,11 @@ function App() {
             <div>
 
               <h3>
-                Data Analytics Intern
+                Full Stack Intern
               </h3>
 
               <p>
-                HCLTech
+                SURE TRUST
               </p>
 
             </div>
@@ -498,10 +498,7 @@ function App() {
 
 
           <p className="experience-description">
-            Worked on data analysis and visualization tasks using
-            Python, SQL and Power BI. Gained practical experience
-            in data cleaning, exploratory data analysis, reporting
-            and creating business-focused dashboards.
+            Working on building scalable websites .
           </p>
 
 
@@ -517,7 +514,7 @@ function App() {
         </div>
 
 
-        {/* TECHPILE */}
+        {/* FLYRANK AI */}
 
         <div className="experience-card">
 
@@ -526,11 +523,11 @@ function App() {
             <div>
 
               <h3>
-                Python & Backend Development Trainee
+                Python & Backend Development Intern
               </h3>
 
               <p>
-                Techpile Technology Pvt. Ltd.
+                Flyrank AI Pvt. Ltd.
               </p>
 
             </div>
@@ -650,17 +647,17 @@ function App() {
           <div className="certificate-card">
 
             <div className="certificate-icon">
-              DA
+              FSD
             </div>
 
             <div>
 
               <h3>
-                Data Analytics Internship
+                Full Stack Dev Intern
               </h3>
 
               <p>
-                HCLTech
+                SURE TRUST 
               </p>
 
             </div>
@@ -681,7 +678,7 @@ function App() {
               </h3>
 
               <p>
-                Techpile Technology Pvt. Ltd.
+                Flyrank AI Pvt Ltd.
               </p>
 
             </div>
@@ -712,7 +709,7 @@ function App() {
 
           <p>
             I'm currently open to internship and placement
-            opportunities in Data Analytics, Python,
+            opportunities in Full Stack Development, Python,
             Machine Learning and Software Development.
           </p>
 
@@ -720,7 +717,7 @@ function App() {
           <div className="contact-buttons">
 
             <a
-              href="mailto:anubhavkumar3240@gmail.com"
+              href="mailto:sangamgupta457@gmail.com"
               className="primary-btn"
             >
               Email Me
@@ -728,7 +725,7 @@ function App() {
 
 
             <a
-              href="https://www.linkedin.com/in/anubhav-kumar-577b68269/"
+              href="https://www.linkedin.com/in/sangamgupta1/"
               target="_blank"
               rel="noreferrer"
               className="secondary-btn"
@@ -739,7 +736,7 @@ function App() {
 
             <a
               href="/resume.pdf"
-              download="Anubhav_Kumar_Resume.pdf"
+              download="Sangam Resume.pdf"
               className="secondary-btn"
             >
               Download Resume ↓
@@ -757,17 +754,17 @@ function App() {
       <footer>
 
         <div className="logo">
-          AK.
+          SG.
         </div>
 
         <p>
-          © 2026 Anubhav Kumar. Built with React.
+          © 2026 Sangam Gupta. Built with React.
         </p>
 
         <div>
 
           <a
-            href="https://github.com/anubhavkumar3240-sudo"
+            href="https://github.com/CodeWithSangam"
             target="_blank"
             rel="noreferrer"
           >
@@ -775,7 +772,7 @@ function App() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/anubhav-kumar-577b68269/"
+            href="https://www.linkedin.com/in/sangamgupta1/"
             target="_blank"
             rel="noreferrer"
           >
@@ -783,7 +780,7 @@ function App() {
           </a>
 
           <a
-            href="mailto:anubhavkumar3240@gmail.com"
+            href="mailto:sangamgupta457@gmail.com"
           >
             Email
           </a>
