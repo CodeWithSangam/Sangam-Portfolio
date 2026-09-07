@@ -55,8 +55,8 @@ function App() {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1v-3RHwMHOPWuCI0_DAiIodvuhQd7DaI5/view?usp=sharing"
-              download="https://drive.google.com/file/d/1v-3RHwMHOPWuCI0_DAiIodvuhQd7DaI5/view?usp=sharing"
+              href="public/Sangam Resume.pdf"
+              download="Sangam Resume.pdf"
               className="secondary-btn"
             >
               Download Resume ↓
@@ -735,7 +735,7 @@ function App() {
 
 
             <a
-              href="/resume.pdf"
+              href="public/Sangam Resume.pdf"
               download="Sangam Resume.pdf"
               className="secondary-btn"
             >
